@@ -1,12 +1,11 @@
 /*Use this for custom css for portfolio*/
 
 body {
-	
+	padding-top: 20px;
+	font-family: georgia;
 }
 
 .container {
-	padding-left: 15px;
-	padding-right: 15px;
 	margin-left: auto;
 	margin-right: auto;
 }
